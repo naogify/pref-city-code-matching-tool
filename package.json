@@ -1,0 +1,22 @@
+{
+  "name": "pref-city-code-matching-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pref-city-code-match.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naogify/pref-city-code-matching-tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naogify/pref-city-code-matching-tool/issues"
+  },
+  "homepage": "https://github.com/naogify/pref-city-code-matching-tool#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.5"
+  }
+}
